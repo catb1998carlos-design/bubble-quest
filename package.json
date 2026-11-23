@@ -1,0 +1,1 @@
+{"name":"bubble-quest","version":"1.0.0","description":"Bubble Quest bubble shooter","scripts":{"build":"echo web assets ready"},"dependencies":{"@capacitor/core":"^6.2.0"},"devDependencies":{"@capacitor/cli":"^6.2.0"}}
